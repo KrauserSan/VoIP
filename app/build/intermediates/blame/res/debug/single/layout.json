@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_address_dialog.xml",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\layout\\call_address_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\walkietalkie.xml",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\layout\\walkietalkie.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiver_call.xml",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\layout\\receiver_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_list.xml",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\layout\\address_list.xml"
+    }
+]

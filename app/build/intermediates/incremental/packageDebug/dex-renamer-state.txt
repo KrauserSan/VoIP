@@ -1,0 +1,7 @@
+#Thu Apr 27 13:57:30 EDT 2017
+base.0=C\:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e25f883a2ffc8189fd0e25e4759f35adb7486e1c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_960ebac7ebf9dad9a023a3f9c2eebddefbfdde3f\\classes.dex
+base.1=C\:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_960ebac7ebf9dad9a023a3f9c2eebddefbfdde3f
+file.0=C\:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e25f883a2ffc8189fd0e25e4759f35adb7486e1c\\classes.dex

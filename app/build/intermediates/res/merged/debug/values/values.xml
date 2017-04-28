@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIP Demo</string>
+    <string name="contactAddress">SIP Address to contact</string>
+    <string name="gsm">GSM RSSI:</string>
+    <string name="talk">Talk</string>
+    <string name="wifi">WiFi RSSI: </string>
+</resources>

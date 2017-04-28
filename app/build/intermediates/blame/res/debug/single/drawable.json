@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_speak_selected.png",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\drawable\\btn_speak_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_speak_normal.png",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\drawable\\btn_speak_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_speak_pressed.png",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\drawable\\btn_speak_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one_punch.png",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\drawable\\one_punch.png"
+    },
+    {
+        "merged": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record.xml",
+        "source": "C:\\Users\\vivpa\\Downloads\\SipDemo\\app\\src\\main\\res\\drawable\\btn_record.xml"
+    }
+]

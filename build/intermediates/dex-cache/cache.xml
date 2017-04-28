@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\vivpa\Downloads\SipDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="068b8ebc3e4c3a9f741c837fe01b22ae952d3d14">
+        <dex dex="C:\Users\vivpa\Downloads\SipDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e25f883a2ffc8189fd0e25e4759f35adb7486e1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vivpa\Downloads\SipDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f878da38b8dc7303d852902d43b295b3a595ea64">
+        <dex dex="C:\Users\vivpa\Downloads\SipDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_960ebac7ebf9dad9a023a3f9c2eebddefbfdde3f\classes.dex" />
+    </item>
+
+</items>
